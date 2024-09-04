@@ -1,9 +1,10 @@
 *** Initialisation du GIT ****
-
+Ceci est le repo présentant le code réalisé lors du stage au CREPS pour communication avec un serveur REQUEA.
+Ci-dessous le cahier des charge donné
 
 ***
 Cahier des charges:
- Récupérer les données via un SOAP sur le progiciel REQUA
+ Récupérer les données via un SOAP sur le progiciel REQUEA
  Mettre en forme les données via une interface web
  Un serveur viendra afficher la page web générée  
 
